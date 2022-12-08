@@ -56,6 +56,8 @@ public class DetailActivity extends AppCompatActivity {
 
          */
 
+        
+
     }
 
     // 툴바 메뉴 선택시
