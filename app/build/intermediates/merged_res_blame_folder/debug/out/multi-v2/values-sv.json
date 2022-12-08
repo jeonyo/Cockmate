@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\im210\\CockProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "C:\\Users\\im210\\CockProject\\Cockmate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\im210\\.gradle\\caches\\transforms-3\\3167ffd0d4b6b6a9b4f031c2085febb7\\transformed\\jetified-play-services-base-18.0.1\\res\\values-sv\\values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\im210\\CockProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\im210\\CockProject\\Cockmate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\im210\\.gradle\\caches\\transforms-3\\b0071816c68efdc93779049ae7310c8d\\transformed\\appcompat-1.5.1\\res\\values-large-v4\\values-large-v4.xml",
